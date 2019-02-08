@@ -121,7 +121,7 @@ By default, deployments use the values set in `~/.wskprops`. Override the defaul
         {: pre}
     *   In Python 3:
         ```
-        pycompose demo.js > demo.json
+        pycompose demo.py > demo.json
         ```
         {: pre}
 3.  Deploy the code to {{site.data.keyword.openwhisk}}.
